@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Wish Item)">79396dd5f11332107f44ff542f3e81da</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Wish Item)</name>
+        <order/>
+        <parent>2d396dd5f11332107f44ff542f3e81c9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-25 11:17:18</sys_created_on>
+        <sys_id>b1396dd5f11332107f44ff542f3e81df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Wish Item)</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">c0286d15f11332107f44ff542f3e8192</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">c0286d15f11332107f44ff542f3e8192</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b1396dd5f11332107f44ff542f3e81df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-25 11:17:18</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1396dd5f11332107f44ff542f3e81df"/>
+</record_update>
